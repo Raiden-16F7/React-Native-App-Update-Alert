@@ -1,0 +1,17 @@
+{
+  "name": "react-native-app-update-alert",
+  "version": "1.0.0",
+  "description": "React Native library for displaying app update alerts with customizable messages and buttons.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "raiden16f7",
+  "license": "MIT",
+  "dependencies": {
+    "react-native": "^0.74.2",
+    "react-native-device-info": "^11.1.0",
+    "react-native-version-check": "^3.4.7"
+  }
+}
