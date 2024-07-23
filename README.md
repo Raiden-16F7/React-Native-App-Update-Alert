@@ -1,8 +1,8 @@
-## `React Native App Update Alert` Function
+## 📲 `React Native App Update Alert` Function
 
-### Description
+### 🌟 Description
 
-This function checks for updates of the mobile app based on the local version of the app and compares it with the latest version available on the respective app stores (iOS and Android). It prompts users with appropriate alerts for major and minor updates, and handles app store redirection for updates.
+This function meticulously monitors updates for your mobile app by comparing the local version with the latest versions available on iOS and Android app stores. It intuitively alerts users to both major and minor updates, seamlessly guiding them through app store redirections for updates.
 
 ### Props
 
@@ -38,3 +38,13 @@ const YourComponent = () => {
   );
 };
 ```
+
+## 🚀 Contributions and License
+
+Contributions are welcome! Feel free to fork the repository, create pull requests, and suggest new features or improvements. Please ensure to follow the guidelines in the [CONTRIBUTING.md](link-to-contributing-file) file.
+
+This project is licensed under the MIT License.
+
+## Created By
+
+<img src="https://github.com/Raiden-16F7/TourXpress/blob/master/Social-handle-(Dark)-[remix].gif" alt="TourXpress Logo" width="450" height="150" />
