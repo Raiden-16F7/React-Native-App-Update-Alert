@@ -3,15 +3,33 @@
   "version": "1.0.0",
   "description": "React Native library for displaying app update alerts with customizable messages and buttons.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raiden-16F7/react-native-app-update-alert.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "react-native",
+    "update",
+    "alert",
+    "app",
+    "notification"
+  ],
   "author": "raiden16f7",
   "license": "MIT",
   "dependencies": {
     "react-native": "^0.74.2",
     "react-native-device-info": "^11.1.0",
     "react-native-version-check": "^3.4.7"
-  }
+  },
+  "peerDependencies": {
+    "react": "^16.8.0 || ^17.0.0",
+    "react-native": "^0.60.0 || ^0.61.0 || ^0.62.0 || ^0.63.0 || ^0.64.0 || ^0.65.0 || ^0.66.0 || ^0.67.0 || ^0.68.0 || ^0.69.0 || ^0.70.0 || ^0.71.0 || ^0.72.0 || ^0.73.0 || ^0.74.0 || ^0.75.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Raiden-16F7/react-native-app-update-alert/issues"
+  },
+  "homepage": "https://github.com/Raiden-16F7/react-native-app-update-alert#readme"
 }
